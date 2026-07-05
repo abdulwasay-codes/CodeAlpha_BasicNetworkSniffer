@@ -21,11 +21,7 @@ The Basic Network Sniffer is developed in Python using the Scapy library. It cap
 - Python 3.14
 - Scapy
 - Npcap
-<<<<<<< HEAD
-- Visual Studio Code
-=======
 - VS Code
->>>>>>> 125d0c69c4e71e45053e849033efb24fb64de380
 
 ## Requirements
 
@@ -45,8 +41,6 @@ python network_sniffer.py
 
 Stop packet capture by pressing **Ctrl + C**.
 
-<<<<<<< HEAD
-=======
 ## Sample Output
 
 ```
@@ -59,7 +53,6 @@ Protocol        : TCP
 Packet Length   : 74 bytes
 ```
 
->>>>>>> 125d0c69c4e71e45053e849033efb24fb64de380
 ## Learning Outcomes
 
 - Network Packet Analysis
@@ -74,8 +67,4 @@ CodeAlpha Cyber Security Internship
 
 ## Author
 
-<<<<<<< HEAD
 Abdul Wasay
-=======
-Abdul Wasay
->>>>>>> 125d0c69c4e71e45053e849033efb24fb64de380

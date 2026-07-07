@@ -14,6 +14,8 @@ The Basic Network Sniffer is developed in Python using the Scapy library. It cap
 - Identify Protocol (TCP, UDP, ICMP)
 - Display Packet Length
 - Display Timestamp
+- Display Source Port
+- Display Destination Port
 - Real-time Packet Monitoring
 
 ## Technologies Used

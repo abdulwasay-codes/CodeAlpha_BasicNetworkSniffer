@@ -44,13 +44,16 @@ Stop packet capture by pressing **Ctrl + C**.
 ## Sample Output
 
 ```
-Packet #15
+Packet #27
+======================================================================
+Timestamp        : 2026-07-07 13:11:40
+Source IP        : 172.64.155.209
+Destination IP   : 192.168.100.3
+Protocol         : TCP
+Source Port      : 443
+Destination Port : 54193
+Packet Length    : 322 bytes
 
-Timestamp       : 2026-07-05 20:10:14
-Source IP       : 192.168.100.2
-Destination IP  : 142.250.xxx.xxx
-Protocol        : TCP
-Packet Length   : 74 bytes
 ```
 
 ## Learning Outcomes
